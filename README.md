@@ -9,6 +9,8 @@
 
 </div>
 
+doc: https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee
+
 FlowG is a log management platform that lets you ingest, transform, and query
 logs using a visual pipeline builder. It handles structured logs without
 requiring predefined schemas and relies on
